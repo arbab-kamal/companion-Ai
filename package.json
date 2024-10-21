@@ -39,7 +39,7 @@
     "next-cloudinary": "^5.18.0",
     "next-themes": "^0.2.1",
     "node-fetch": "^3.3.2",
-    "openai": "^4.24.7",
+    "openai": "^4.68.1",
     "openai-edge": "^1.2.2",
     "query-string": "^8.1.0",
     "react": "18.2.0",
